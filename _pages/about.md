@@ -20,7 +20,9 @@ redirect_from:
 I come from Qinghai Province. I am studying at the University of Chinese Academy of Sciences (UCAS), Institute of Computing Technology (ICT), and Chinese Academy of Sciences (CAS), majoring in Computing Technology. I majored in Simulation engineering at the Changsha Campus of the National University of Defense Technology (NUDT). After graduation, I engaged in simulation-related work. I am proficient at simulation engine construction and in discrete event simulation technology and parallel discrete event simulation technology. In addition, I am also interested in economics and finance. Now I am qualified as a certified public accountant (CPA) in China. 
 
 My research interests mainly include large-scale network simulation technology, reinforcement learning, operations research, LEO satellite network routing technology, etc.
-
+# 🔥 News
+<span class='anchor' id='news'></span>
+I am looking for a PhD position in computer science.
 
 # 📝 Publications 
 <span class='anchor' id='publications'></span>
@@ -42,8 +44,8 @@ My research interests mainly include large-scale network simulation technology, 
 # 🎖 Honors and Awards
 <span class='anchor' id='honors-and-awards'></span>
 - *2023.05* Received the merit student of UCAS. 
-- *2023.01* Received the membership of Chinese Institute of the Certified Public Accountant(CICPA).
-- *2019.01* Received the membership of Analyst of Quantitative Finance(AQF).
+- *2023.01* Received the membership of Chinese Institute of the Certified Public Accountant (CICPA).
+- *2019.01* Received the membership of Analyst of Quantitative Finance (AQF).
 
 # 📖 Educations
 <span class='anchor' id='educations'></span>
