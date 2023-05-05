@@ -23,7 +23,7 @@ My research interests mainly include large-scale network simulation technology, 
 
 
 # 📝 Publications 
-<span class='anchor' id='Publications'></span>
+<span class='anchor' id='publications'></span>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -40,18 +40,18 @@ My research interests mainly include large-scale network simulation technology, 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-<span class='anchor' id='Honors-and-Awards'></span>
+<span class='anchor' id='honors-and-awards'></span>
 - *2023.05* Received the merit student of UCAS. 
 - *2023.01* Received the membership of Chinese Institute of the Certified Public Accountant(CICPA).
 - *2019.01* Received the membership of Analyst of Quantitative Finance(AQF).
 
 # 📖 Educations
-<span class='anchor' id='Educations'></span>
+<span class='anchor' id='educations'></span>
 - *2021.09 - 2023(now)*, The University of Chinese Academy of Sciences (Beijing-China), Institute of Computing Technology, Computing Technology. 
 - *2012.09 - 2016.06*, The National University of Defense Technology (Changsha-China), School of Systems Engineering, Simulation engineering.
 
 # 💻 Skills
-<span class='anchor' id='Skills'></span>
+<span class='anchor' id='skills'></span>
 - Proficient in C/C++ and python.
 - Familiar with ns-3 network simulation framework, familiar with discrete event simulation principle and implementation
 - Familiar with the principles of Internet protocols, especially on machine learning-based routing algorithms.
